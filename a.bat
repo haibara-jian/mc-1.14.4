@@ -1,0 +1,1 @@
+java -Xms1G -Xmx1G  -jar paperclip-160.jar
